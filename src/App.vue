@@ -98,7 +98,7 @@ onMounted(() => {
 */
 body {
   /*background-color: #1a1d23;*/
-  background-image: url("public/2.jpg");
+  background-image: url("assets/2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
