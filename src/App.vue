@@ -79,7 +79,6 @@ onMounted(() => {
 <template>
   <audio
     preload="metadata"
-    controls
     ref="audio"
     :src="track[count]"
     @durationchange="handleLoadedData"
